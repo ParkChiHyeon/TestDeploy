@@ -8,6 +8,9 @@ public class Dev1 {
 	
 	public void testMethod() {
 		System.out.println("Hello World");
+
+
+		phone = "01012341234";
 	}
 	
 	
