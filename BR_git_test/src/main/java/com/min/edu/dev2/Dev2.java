@@ -7,10 +7,6 @@ public class Dev2 {
 	
 	public void testMethod2() {
 		System.out.println("Hello dev2");
-
-		student_code = "123456";
-
-		address = "New york city, 455-1, 221";
 	}
 	
 	
