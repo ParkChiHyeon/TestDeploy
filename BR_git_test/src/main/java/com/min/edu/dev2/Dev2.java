@@ -8,6 +8,8 @@ public class Dev2 {
 	public void testMethod2() {
 		System.out.println("Hello dev2");
 		System.out.println("new dev2 message");
+
+		student_code = "20101120253";
 	}
 	
 	
