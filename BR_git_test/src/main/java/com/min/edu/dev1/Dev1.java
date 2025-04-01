@@ -15,23 +15,16 @@ public class Dev1 {
 		System.out.println("Hello World");
 
 		email = "abcdefg@agcdeffgg.com";
-
-		name = "kim gae ddong";
-		System.out.println("Hello World");
-
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
+		email = "abcdefg@agcdeffgg.com";
 		email = "abcdefg@agcdeffgg.com";
 
-		name = "kim gae ddong";
-		System.out.println("Hello World");
-
-		email = "abcdefg@agcdeffgg.com";
-
-		name = "kim gae ddong";
-		System.out.println("Hello World");
-
-		email = "abcdefg@agcdeffgg.com";
-
-		name = "kim gae ddong";
 	}
 	
 	
