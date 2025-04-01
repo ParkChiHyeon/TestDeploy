@@ -8,6 +8,10 @@ public class Dev1 {
 	
 	public void testMethod() {
 		System.out.println("Hello World");
+
+		email = "abcdefg@agcdeffgg.com";
+
+		name = "kim gae ddong";
 	}
 	
 	
