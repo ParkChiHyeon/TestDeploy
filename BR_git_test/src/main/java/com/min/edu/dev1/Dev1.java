@@ -12,6 +12,26 @@ public class Dev1 {
 		email = "abcdefg@agcdeffgg.com";
 
 		name = "kim gae ddong";
+		System.out.println("Hello World");
+
+		email = "abcdefg@agcdeffgg.com";
+
+		name = "kim gae ddong";
+		System.out.println("Hello World");
+
+		email = "abcdefg@agcdeffgg.com";
+
+		name = "kim gae ddong";
+		System.out.println("Hello World");
+
+		email = "abcdefg@agcdeffgg.com";
+
+		name = "kim gae ddong";
+		System.out.println("Hello World");
+
+		email = "abcdefg@agcdeffgg.com";
+
+		name = "kim gae ddong";
 	}
 	
 	
