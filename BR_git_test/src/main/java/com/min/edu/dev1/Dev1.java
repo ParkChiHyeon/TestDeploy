@@ -10,6 +10,8 @@ public class Dev1 {
 		System.out.println("Hello World");
 
 		email = "abcdefg@agcdeffgg.com";
+
+		name = "kim gae ddong";
 	}
 	
 	
