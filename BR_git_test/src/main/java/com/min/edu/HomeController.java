@@ -54,6 +54,10 @@ public class HomeController {
 
 		if(true)model.addAttribute("DEV1에서 추가 수정", formattedDate );
 		model.addAttribute("메인 에서 추가 수정", formattedDate );
+		model.addAttribute("DEV1에서 추가 수정", formattedDate );
+		model.addAttribute("DEV1에서 추가 수정", formattedDate );
+		model.addAttribute("DEV1에서 추가 수정", formattedDate );
+		model.addAttribute("DEV1에서 추가 수정", formattedDate );
 		
 		return "home";
 	}
