@@ -47,7 +47,10 @@ public class HomeController {
 		String formattedDate = dateFormat.format(date);
 		
 		model.addAttribute("serverTime", formattedDate );
+
+		model.addAttribute("DEV1에서 추가", formattedDate );
 		
 		return "home";
 	}
 }
+
