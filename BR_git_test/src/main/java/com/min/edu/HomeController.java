@@ -48,7 +48,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 
-		model.addAttribute("DEV1에서 추가", formattedDate );
+		model.addAttribute("DEV1에서 추가 수정", formattedDate );
 		
 		return "home";
 	}
