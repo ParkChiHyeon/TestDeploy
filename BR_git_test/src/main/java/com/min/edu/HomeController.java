@@ -57,6 +57,8 @@ public class HomeController {
 		model.addAttribute("DEV1에서 추가 수정", formattedDate );
 		model.addAttribute("DEV1에서 추가 수정", formattedDate );
 		
+		if(true) formattedDate = "오류수정";
+		
 		return "home";
 	}
 }
